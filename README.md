@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning lua and python
 - 💞️ I’m looking to collaborate on games
 - 📫 How to reach me: Just be chilled out
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats
 
 <!---
