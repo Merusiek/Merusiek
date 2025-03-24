@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Merusiek YT chanell: https://www.youtube.com/@mruczek
 - 👀 I’m interested in programming (main program: Roblox Studio)
-- 🌱 I’m currently learning lua and python
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me: Just be chilled out
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like cats
+- 🌱 I’m currently learning lua, python and C#
+- 💞️ I’m looking for ideas
+- 📫 How to reach me: e-mail: prousz.biznes@gmail.com or discord: merusiek
+- 😄 Pronouns: He/Him (but you can use they/them)
+- ⚡ Fun fact: I like samoyeds more than huskies because of their cute faces :3
 
 <!---
 Merusiek/Merusiek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
